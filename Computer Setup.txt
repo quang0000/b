@@ -1,0 +1,111 @@
+Bookmarks - Brave
+-
+
+Bookmarks - Chrome Lumeiros
+- Shopify
+https://lumeiros.myshopify.com/admin
+- dk
+https://mail.proton.me/u/0/inbox
+O
+- lumeirosstore
+https://mail.google.com/mail/u/0/
+- OVH Mail
+https://www.ovhcloud.com/en-gb/mail/
+- OVHcloud
+https://www.ovh.com/manager
+- AliExpress
+https://www.aliexpress.com/
+- DSers
+https://www.dsers.com/app/storemanage/myproduct
+- Stripe
+https://dashboard.stripe.com/dashboard
+- Lumeiros™
+https://lumeiros.fr/
+
+Bookmarks (Microsoft Edge)
+- ChatGPT
+https://chat.openai.com/
+- BingAI
+https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1
+
+Bookmarks - Chrome XC
+- Automa
+https://hotmart.com/en/club/automa-web-school/products/3048231/
+Social
+- xc
+https://mail.proton.me/u/0/inbox
+- Telegram
+https://web.telegram.org/k/
+- Outlook
+https://outlook.live.com/mail/0/
+- Discord
+https://discord.com.channels/@me
+
+Bookmarks - Firefox
+- ADE
+https://ade.u-pec.fr/direct/?locale=fr
+- Eprel
+https://eprel.u-pec.fr/my/courses.php
+- Gmail
+https://mail.google.com/mail/u/0/
+- Outlook
+https://outlook.office.com/mail/
+- Sciences
+https://sciences-tech.u-pec.fr/
+- UPEC
+https://www.u-pec.fr/
+
+Extensions
+- Aliexpress Search by image
+- Automa
+- ChadGuard
+- Comidoc
+- GoLess
+- hektCaptcha
+- Instant Data Scraper
+- Keywords Everywhere
+- Similarweb
+- Sort for TikTok
+- Unhook
+
+Programs
+- Avast
+- Brave
+- Chrome
+- Firefox
+- LibreOffice
+- Microsoft Edge
+- Microsoft Photos
+- Microsoft PowerToys
+- Microsoft Store
+- Notepad
+- Paint
+- PyCharm
+- Python
+- Screaming Frog SEO Spider
+- Snip & Sketch
+- VLC media player
+
+Site search
+- Adobe Firefly  f
+- Canva  ca
+- ChatGPT  c
+- Claude  cl
+- ClipDrop – Uncrop  u
+- ClipDrop – Stable Diffusion XL  s
+- Compteur de mots  co
+- DeepL  de
+- Discord  d
+- ElevenLabs  e
+- Figma  f
+- Gmail  g
+- Gmailnator  gm
+- Google Docs  gd
+- Google Sheets  gs
+- Leonardo.AI  l
+- Mohmal  m
+- Picwish – Blurry  b
+- Picwish - Remove Object  r
+- Pixlr  p
+- WordReference  w
+- YouTube  y
